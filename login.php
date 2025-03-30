@@ -112,8 +112,7 @@ a:hover {
     <div class="login-container">
         <h2>Login as</h2>
         <a href="admin_login.php"><button class="admin-btn">Admin</button></a>
-        <button class="manager-btn" disabled>Manager (Coming Soon)</button>
-        <button class="player-btn" disabled>Player (Coming Soon)</button>
+        
     </div>
 
 </body>

@@ -87,7 +87,7 @@
                     <li><a href="standing.php">Standings</a></li>
                 </ul>
             </li>
-            <li><a href="#">#####</a></li>
+            
         </ul>
         <div class="auth-buttons">
         <a href="login.php"><button class="login">Log In</button></a>
