@@ -88,10 +88,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     mysqli_close($conn);
+
+    header("Location: dashboard.php");
+    exit();
 } else {
     echo "Invalid request.";
 }
 
-header("Location: dashboard.php");
-exit();
 ?>
