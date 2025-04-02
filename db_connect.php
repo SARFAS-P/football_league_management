@@ -12,6 +12,6 @@ if(!$conn)
 {
     die("not connected".mysqli_connect_error());
 }
-;
+
 
 ?>
