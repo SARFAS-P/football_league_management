@@ -82,7 +82,6 @@ a:hover {
         </ul>
         <div class="auth-buttons">
         <a href="login.php"><button class="login">Log In</button></a>
-            <!--    <button class="register">Register</button>--> 
         </div>
     </nav>
     <br><br>

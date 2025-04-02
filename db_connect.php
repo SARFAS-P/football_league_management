@@ -1,10 +1,10 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "root"; // Your MySQL root password
+$password = "root"; 
 $dbname = "dbproj";
 
-// Create connection
+
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
